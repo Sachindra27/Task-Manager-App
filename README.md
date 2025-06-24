@@ -1,2 +1,2 @@
 # Task-Manager-App
-A simple to-do list web app that lets users add, edit, and delete tasks.
+users can create to do tasks with priority, deadlines and status.
